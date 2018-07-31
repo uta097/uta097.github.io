@@ -1,5 +1,9 @@
 h1{
-    font-size:100px;
+    font-size:150px;
     text-align: center;
-    font-family: 'Poiret One', cursive;
+    font-family: 'Amatic SC', cursive;
+}
+
+p{
+    text-align: center;
 }
